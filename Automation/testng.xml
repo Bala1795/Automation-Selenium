@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.actime.testscript.CustomerModule"/>
+      <class name="com.actime.testscript.TaskModule"/>
+      <class name="com.actime.testscript.ProjectModule"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
